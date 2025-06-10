@@ -44,10 +44,10 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-models/*.keras
-models/*.pt
-models/*.h5
-models/*.pth
+# models/*.keras
+# models/*.pt
+# models/*.h5
+# models/*.pth
 !models/.gitkeep
 
 data/processed/*
