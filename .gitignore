@@ -53,10 +53,10 @@ models/*.pth
 data/processed/*
 !data/processed/.gitkeep
 
-results/part_1/*
-results/part_2/*
-results/part_3/*
-results/part_4/*
+# results/part_1/*
+# results/part_2/*
+# results/part_3/*
+# results/part_4/*
 !results/part_1/.gitkeep
 !results/part_2/.gitkeep
 !results/part_3/.gitkeep

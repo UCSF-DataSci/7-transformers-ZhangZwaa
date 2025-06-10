@@ -1,0 +1,22 @@
+# LLM Chat Tool Test Results
+
+## Usage Examples
+
+```bash
+# Run the one-off chat
+python utils/one_off_chat.py
+
+# Run the contextual chat
+python utils/conversation.py
+```
+
+## Test Results
+
+```csv
+question,response
+What are the symptoms of gout?,Request failed: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/openai/whisper-large-v3
+How is gout diagnosed?,Request failed: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/openai/whisper-large-v3
+What treatments are available for gout?,Request failed: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/openai/whisper-large-v3
+What lifestyle changes can help manage gout?,Request failed: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/openai/whisper-large-v3
+What foods should be avoided with gout?,Request failed: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/openai/whisper-large-v3
+```
