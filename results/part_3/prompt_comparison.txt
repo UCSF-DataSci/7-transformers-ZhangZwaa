@@ -2,149 +2,71 @@
 
 ## Question: What foods should be avoided by patients with gout?
 
-### Zero-shot response:
-Patients with gout should avoid foods high in purines, as these can increase uric acid levels. Examples include organ meats (liver, kidney, sweetbreads), red meat (beef, lamb, pork), some seafood (sardines, anchovies, mussels, scallops), and alcoholic beverages, especially beer. Sugary drinks and foods high in fructose should also be limited.
+zero-shot_accuracy:
+[Response not found]
 
-### One-shot response:
-*Example Question: What are common symptoms of a migraine?*
-*Example Answer: Common migraine symptoms include severe throbbing head pain, often on one side of the head, sensitivity to light (photophobia) and sound (phonophobia), nausea, and vomiting. Aura, such as visual disturbances, can precede the headache.*
+one-shot_accuracy:
+[Response not found]
 
-*Question: What foods should be avoided by patients with gout?*
-Patients with gout should steer clear of high-purine foods like organ meats (e.g., liver, kidney), certain seafood (e.g., anchovies, sardines, scallops), and red meat. Alcoholic beverages, particularly beer, and sugary drinks should also be limited due to their potential to raise uric acid levels.
-
-### Few-shot response:
-*Example 1 Question: What are good sources of Vitamin D?*
-*Example 1 Answer: Good sources of Vitamin D include fatty fish (salmon, mackerel, tuna), fortified foods (milk, cereal, orange juice), and exposure to sunlight.*
-
-*Example 2 Question: What are the benefits of regular exercise?*
-*Example 2 Answer: Regular exercise offers numerous benefits, including improved cardiovascular health, weight management, stronger bones and muscles, reduced risk of chronic diseases, enhanced mood, and better sleep quality.*
-
-*Example 3 Question: What are common symptoms of seasonal allergies?*
-*Example 3 Answer: Common symptoms of seasonal allergies include sneezing, runny nose, itchy or watery eyes, nasal congestion, and an itchy throat or ears.*
-
-*Question: What foods should be avoided by patients with gout?*
-For individuals with gout, it's advisable to avoid foods rich in purines, such as organ meats (e.g., liver, kidney), some seafood (e.g., anchovies, sardines, mussels), and excessive consumption of red meat. Alcohol, especially beer, and sugary beverages should also be restricted, as they can elevate uric acid and trigger gout attacks.
-
----
+few-shot_accuracy:
+[Response not found]
 
 ## Question: What medications are commonly prescribed for gout?
 
-### Zero-shot response:
-Commonly prescribed medications for gout include NSAIDs (like ibuprofen or naproxen) for acute attacks, colchicine to reduce inflammation, and corticosteroids (like prednisone) for severe flares. For long-term management to lower uric acid levels, allopurinol and febuxostat are frequently used.
+zero-shot_accuracy:
+[Response not found]
 
-### One-shot response:
-*Example Question: What are common symptoms of a cold?*
-*Example Answer: Common cold symptoms include runny nose, sore throat, sneezing, cough, and sometimes mild fatigue or headache.*
+one-shot_accuracy:
+[Response not found]
 
-*Question: What medications are commonly prescribed for gout?*
-For gout attacks, NSAIDs (e.g., ibuprofen), colchicine, and corticosteroids are often prescribed to manage pain and inflammation. For preventing future flares by lowering uric acid, allopurinol and febuxostat are standard treatments.
-
-### Few-shot response:
-*Example 1 Question: What is the main use of insulin?*
-*Example 1 Answer: Insulin is primarily used to manage blood sugar levels in people with diabetes by helping the body's cells absorb glucose.*
-
-*Example 2 Question: What are common side effects of antibiotics?*
-*Example 2 Answer: Common side effects of antibiotics can include nausea, diarrhea, abdominal pain, and allergic reactions like rashes or hives.*
-
-*Example 3 Question: What is aspirin typically used for?*
-*Example 3 Answer: Aspirin is commonly used as a pain reliever, fever reducer, and anti-inflammatory drug. Low doses are also used to prevent blood clots and reduce the risk of heart attacks and and strokes.*
-
-*Question: What medications are commonly prescribed for gout?*
-Medications for gout typically include non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen for acute attacks, colchicine to alleviate inflammation, and corticosteroids for more severe cases. For long-term control and to reduce uric acid, allopurinol and febuxostat are widely prescribed.
-
----
+few-shot_accuracy:
+[Response not found]
 
 ## Question: How can gout flares be prevented?
 
-### Zero-shot response:
-Gout flares can be prevented by maintaining a low-purine diet, staying well-hydrated, avoiding excessive alcohol consumption (especially beer), and achieving a healthy weight. Regular exercise and adherence to prescribed uric acid-lowering medications (like allopurinol or febuxostat) are also crucial.
+zero-shot_accuracy:
+[Response not found]
 
-### One-shot response:
-*Example Question: How can one improve sleep quality?*
-*Example Answer: Improving sleep quality involves establishing a regular sleep schedule, creating a dark and quiet sleep environment, avoiding caffeine and heavy meals before bed, and incorporating relaxation techniques.*
+one-shot_accuracy:
+[Response not found]
 
-*Question: How can gout flares be prevented?*
-Preventing gout flares involves a combination of strategies: adhering to a low-purine diet, drinking plenty of water, limiting alcohol intake (especially beer), and maintaining a healthy weight. Consistent use of prescribed uric acid-lowering medications like allopurinol is also key.
-
-### Few-shot response:
-*Example 1 Question: How can stress be managed effectively?*
-*Example 1 Answer: Effective stress management involves techniques like mindfulness meditation, regular physical activity, ensuring adequate sleep, maintaining a healthy diet, and setting realistic expectations.*
-
-*Example 2 Question: How can one boost their immune system?*
-*Example 2 Answer: Boosting the immune system can be achieved through a balanced diet rich in fruits and vegetables, regular exercise, sufficient sleep, and minimizing chronic stress.*
-
-*Example 3 Question: How can headaches be relieved naturally?*
-*Example 3 Answer: Natural headache relief methods include applying a cold compress, resting in a quiet and dark room, drinking water, consuming caffeine in moderation, and practicing relaxation exercises.*
-
-*Question: How can gout flares be prevented?*
-To prevent gout flares, patients should focus on dietary modifications, such as limiting high-purine foods and sugary drinks, staying well-hydrated, and reducing alcohol consumption, especially beer. Maintaining a healthy body weight and consistently taking uric acid-lowering medications, such as allopurinol or febuxostat, are vital for long-term prevention.
-
----
+few-shot_accuracy:
+[Response not found]
 
 ## Question: Is gout related to diet?
 
-### Zero-shot response:
-Yes, gout is significantly related to diet. Certain foods high in purines, a substance that the body breaks down into uric acid, can contribute to gout flares. Examples include organ meats, red meat, some seafood, and alcoholic beverages. Sugary drinks also play a role by increasing uric acid production.
+zero-shot_accuracy:
+[Response not found]
 
-### One-shot response:
-*Example Question: Is diabetes hereditary?*
-*Example Answer: Both type 1 and type 2 diabetes can have a hereditary component, meaning they can run in families, although environmental factors also play a significant role, especially in type 2.*
+one-shot_accuracy:
+[Response not found]
 
-*Question: Is gout related to diet?*
-Absolutely, diet has a strong connection to gout. Foods rich in purines, like organ meats and certain seafood, can elevate uric acid levels in the body, leading to gout attacks. Alcohol and sugary drinks also contribute to this risk.
-
-### Few-shot response:
-*Example 1 Question: Is cholesterol always bad?*
-*Example 1 Answer: No, cholesterol is essential for building healthy cells, but high levels of LDL ("bad") cholesterol can increase the risk of heart disease.*
-
-*Example 2 Question: Is fever always a sign of infection?*
-*Example 2 Answer: While fever is often a sign of infection, it can also be caused by inflammation, certain medications, or other non-infectious conditions.*
-
-*Example 3 Question: Is exercise always good for back pain?*
-*Example 3 Answer: Not always. While exercise can be beneficial for many types of back pain, certain exercises might worsen specific conditions, so it's important to consult a doctor or physical therapist.*
-
-*Question: Is gout related to diet?*
-Yes, gout is strongly linked to dietary choices. Consuming foods high in purines, such as organ meats, certain types of seafood, and red meats, can increase uric acid levels in the blood, which is a primary cause of gout. Additionally, excessive intake of alcohol, particularly beer, and sugary beverages can also exacerbate gout symptoms.
-
----
+few-shot_accuracy:
+[Response not found]
 
 ## Question: Can gout be cured permanently?
 
-### Zero-shot response:
-Currently, gout cannot be cured permanently, but it can be very effectively managed and controlled with proper medication and lifestyle changes. The goal of treatment is to lower uric acid levels, prevent flares, and reduce joint damage.
+zero-shot_accuracy:
+[Response not found]
 
-### One-shot response:
-*Example Question: Can the common cold be cured with antibiotics?*
-*Example Answer: No, antibiotics are effective against bacterial infections, but the common cold is caused by viruses, so antibiotics will not cure it.*
+one-shot_accuracy:
+[Response not found]
 
-*Question: Can gout be cured permanently?*
-No, gout generally cannot be permanently cured, but it can be very well-controlled with consistent medication (to lower uric acid) and lifestyle adjustments. The aim is to prevent attacks and long-term joint damage.
-
-### Few-shot response:
-*Example 1 Question: Can migraines be prevented?*
-*Example 1 Answer: While not always entirely preventable, migraines can often be reduced in frequency and severity through lifestyle adjustments, avoiding triggers, and sometimes preventive medications.*
-
-*Example 2 Question: Can acne be eliminated completely?*
-*Example 2 Answer: While acne can be effectively managed and cleared, it may not be permanently eliminated for everyone, as hormonal and genetic factors can contribute to its recurrence.*
-
-*Example 3 Question: Can high blood pressure be reversed?*
-*Example 3 Answer: High blood pressure can sometimes be reversed or brought back to normal levels through significant lifestyle changes like diet, exercise, and weight loss, though medication may still be necessary for some.*
-
-*Question: Can gout be cured permanently?*
-At present, gout is not considered to be permanently curable. However, it is a highly manageable condition. With consistent adherence to uric acid-lowering medications and significant lifestyle modifications (including diet and hydration), individuals can effectively control their uric acid levels, prevent gout flares, and minimize joint damage, leading to a largely symptom-free life.
+few-shot_accuracy:
+[Response not found]
 
 --------------------------------------------------
 
-## Scores
+Scores
 
 ```
-question,zero_shot,one_shot,few_shot
-what_foods_should_be_avoided_by_patients_with_gout,1.00,1.00,1.00
-what_medications_are_commonly_prescribed_for_gout,1.00,1.00,1.00
-how_can_gout_flares_be_prevented,1.00,1.00,1.00
-is_gout_related_to_diet,1.00,1.00,1.00
-can_gout_be_cured_permanently,1.00,1.00,1.00
+question,zero-shot_accuracy,one-shot_accuracy,few-shot_accuracy
+what_foods_should_be_avoided_by_patients_with_gout,0.00,0.00,0.00
+what_medications_are_commonly_prescribed_for_gout,0.00,0.00,0.00
+how_can_gout_flares_be_prevented,0.00,0.00,0.00
+is_gout_related_to_diet,0.00,0.00,0.00
+can_gout_be_cured_permanently,0.00,0.00,0.00
 
-average,1.00,1.00,1.00
-best_method,All_methods_performed_equally_well
+average,0.00,0.00,0.00
+best_method,Zero-shot_accuracy
 ```
